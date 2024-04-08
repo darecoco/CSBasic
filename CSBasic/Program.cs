@@ -10,6 +10,8 @@ namespace CSBasic
     {
         static void Main(string[] args)
         {
+            //C#에서 Hello world 출력하기
+            Console.WriteLine("Hello World");
         }
     }
 }
